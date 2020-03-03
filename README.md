@@ -1,2 +1,2 @@
-# twitter_profiles_classifier
-obama_trump_twitter_analysis_and_classifier
+# Twitter Profiles Classifying 
+Obama and Trump Twitter profiles analysis
